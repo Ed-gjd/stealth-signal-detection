@@ -1,0 +1,18 @@
+# 环境/缓存
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+
+# 本地日志与临时文件
+*.log
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 运行产物（结果图默认保留已提交版，勿改）
+*.tmp
